@@ -14,11 +14,4 @@ def fn():
 fn()
 
 
-# 定义一个函数，可以用来求任意两个数的和
-# def sum():
-#     a = int(input())
-#     b = int(input())
-#     print(a+b)
-# sum()
-def fn2(a, b):
-    print(a + b)
+
