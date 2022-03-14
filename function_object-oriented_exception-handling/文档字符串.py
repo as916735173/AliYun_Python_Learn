@@ -12,3 +12,22 @@
 # sep: string inserted between values, default a space.
 # end: string appended after the last value, default a newline.
 # flush: whether to forcibly flush the stream.
+
+# 文档字符串
+# 在定义函数时，可以在函数内部编写文档字符串，文档字符串就是函数的说明
+#   当我们边谢了文档字符串，就可以通过help()函数来查看函数的说明
+#   文档字符串非常简单，其实直接在函数的第一行写一个字符串就是文档字符串
+def fn(a: int, b: bool, c: str = 'hello') -> int:
+    """
+    这是一个文档字符串的实例
+
+    函数的作用：。。。。。。。
+    函数的参数：
+        a,作用,类型,默认值。。。。。
+        b,作用,类型,默认值。。。。。
+        c,作用,类型,默认值。。。。。
+    """
+    return 10
+
+
+help(fn)
