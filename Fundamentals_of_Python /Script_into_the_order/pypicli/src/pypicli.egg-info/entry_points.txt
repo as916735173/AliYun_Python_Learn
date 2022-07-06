@@ -1,0 +1,3 @@
+[console_scripts]
+pypix = cli:hello
+

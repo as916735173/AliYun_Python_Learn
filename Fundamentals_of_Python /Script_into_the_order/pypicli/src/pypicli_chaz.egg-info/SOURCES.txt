@@ -1,0 +1,7 @@
+setup.py
+src/pypicli_chaz.egg-info/PKG-INFO
+src/pypicli_chaz.egg-info/SOURCES.txt
+src/pypicli_chaz.egg-info/dependency_links.txt
+src/pypicli_chaz.egg-info/entry_points.txt
+src/pypicli_chaz.egg-info/requires.txt
+src/pypicli_chaz.egg-info/top_level.txt

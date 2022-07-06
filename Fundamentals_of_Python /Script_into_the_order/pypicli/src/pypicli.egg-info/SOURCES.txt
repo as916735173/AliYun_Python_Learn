@@ -1,0 +1,7 @@
+setup.py
+src/pypicli.egg-info/PKG-INFO
+src/pypicli.egg-info/SOURCES.txt
+src/pypicli.egg-info/dependency_links.txt
+src/pypicli.egg-info/entry_points.txt
+src/pypicli.egg-info/requires.txt
+src/pypicli.egg-info/top_level.txt
